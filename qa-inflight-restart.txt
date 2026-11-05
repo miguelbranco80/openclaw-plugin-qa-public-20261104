@@ -1,0 +1,1 @@
+Synthetic isolated publication restart proof. Preserve this file across accepted-request recovery.
